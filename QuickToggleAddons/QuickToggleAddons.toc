@@ -1,0 +1,7 @@
+## Interface: 80200
+## Title: Quick Toggle Addons
+## Author: Restofurryan
+## Version: 8.2.001
+## https://github.com/restofurryan88/QuickToggleAddons
+
+main.lua
